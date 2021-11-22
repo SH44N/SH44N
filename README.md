@@ -1,0 +1,1 @@
+![Metrics](https://metrics.lecoq.io/SH44N?template=classic&isocalendar=1&people=1&isocalendar.duration=half-year&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FStockholm)
